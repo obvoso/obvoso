@@ -28,6 +28,10 @@
 [![soo's 42 stats](https://badge42.vercel.app/api/v2/cll5g971o006508mm482907tm/stats?cursusId=21&coalitionId=87)](https://profile.intra.42.fr/users/soo)
 
 -->
+#### 🙌
+
+
+## [songmin's portfolio 👩‍💻](https://coherent-drawer-3ad.notion.site/4663ca780df14f97af83f4216763146a?pvs=4)
 
 <br/>
 <br/>
