@@ -41,15 +41,19 @@
  
 #### 🥺
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obvoso&layout=compact&theme=tokyonight)](https://github.com/obvoso/github-readme-stats)
-
-<br>
-
-![obvoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=obvoso&show_icons=true&theme=tokyonight)
+<div style="display: flex;">
+ 
+  <a href="https://github.com/obvoso/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=obvoso&show_icons=true&theme=tokyonight" />
+  </a>
+   <a href="https://github.com/obvoso/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obvoso&layout=compact&theme=tokyonight" />
+  </a>
+</div>
 
 <br/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=autumninmoon)](https://solved.ac/autumninmoon/)
 
 ####  😀
 <!-- |2023.12~2024.03|**Alzguard Prototype**|알츠가드 프로젝트의 새로운 게임 4종 프로토타입 개발|[Alz](https://github.com/obvoso/react_hospital_subject)|Next, CanvasAPI| -->
