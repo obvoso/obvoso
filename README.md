@@ -52,9 +52,9 @@
 </div>
 
 <br/>
-
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=autumninmoon)](https://solved.ac/autumninmoon/)
-
+-->
 ####  😀
 <!-- |2023.12~2024.03|**Alzguard Prototype**|알츠가드 프로젝트의 새로운 게임 4종 프로토타입 개발|[Alz](https://github.com/obvoso/react_hospital_subject)|Next, CanvasAPI| -->
 <br/>
