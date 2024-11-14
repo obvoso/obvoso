@@ -1,5 +1,9 @@
 <div align="center"> 
+ <br/>
+ <br/>
   
+####  🤓
+[obvoso-blog](https://obvoso.site)
  <br/>
  <br/>
   
@@ -37,7 +41,8 @@
 <br/>
 <br/>
 -->
-
+  
+ <br/>
  
 #### 🥺
 
@@ -66,7 +71,8 @@
 
 |Date|Project|Service|Repo|Skills|
 |------|---|---|---|---|
-|2023.08~2023.12|**42Manito**|도움이 필요한 동료들을 연결해주는 서비스|[Manito](https://github.com/manito42)|Next, RTK-Query|
+|2024.07~진행중|**obvoso-blog**|개인 개발 블로그|[obvoso](https://github.com/obvoso/obvoso-blog)|Next.js App Router, Notion|
+|2023.08~2023.12|**42Manito**|도움이 필요한 동료들을 연결해주는 서비스|[Manito](https://github.com/manito42)|Next.js Page Router, RTK-Query|
 |2023.09~2023.11|**AppleMangPlate**|KAKAO API를 활용한 맛집 검색 서비스|[AMP](https://github.com/AppleMangoPlate)|Next|
 |2023.07~2023.10|**42PingPong**|실시간 핑퐁게임 및 채팅 SPA 과제|[PingPong](https://github.com/42-pingpong)|React, WebSocket|
 |2023.02~2023.05|**Moim**|이벤트 기반 모임 어플|[Moim](https://github.com/42projectPeople)|React Native|
