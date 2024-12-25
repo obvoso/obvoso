@@ -1,53 +1,29 @@
-<div align="center"> 
- <br/>
- <br/>
-  
-####  🤓
-[obvoso-blog](https://obvoso.site)
- <br/>
- <br/>
-  
-####  🤔
-  
- <br/>
+# SOO ☔️
+🤓 React와 Next.js를 공부하고 있는 프론트엔드 개발자 오송민입니다. UX를 중시하여 사용자 친화적인 서비스를 개발하는데 관심이 있습니다.
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReactNative-00bfff?style=for-the-badge&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
- 
-<br/>
-<br/>
+## Projects
+- **obvoso-blog** | 개발 블로그 | [Repo](https://github.com/obvoso/obvoso-blog) |<sub> Next.js App Router, Notion SDK | 2024.07~진행중 </sub>
+- **baguni** | 웹사이트 링크를 깔끔하게 정리하는 북마크 서비스 | [Repo](https://github.com/Kernel360/F2-BAGUNI) |<sub> Next.js App Router, Zustand | 2024.12~진행중 </sub>
+- **42Manito** | 도움이 필요한 동료들을 연결해주는 플랫폼 | [Repo](https://github.com/manito42) |<sub> Next.js Page Router, RTK-Query | 2023.08~2023.12 </sub>
+- **42PingPong** | 실시간 핑퐁 게임 및 채팅 서비스 | [Repo](https://github.com/42-pingpong) |<sub> React, WebSocket | 2023.07~2023.10 </sub>
+- **WebServ** | NginX Like | [Repo](https://github.com/koreanddinghwan/nginx-like-webserv-using-kqueue) | <sub>C++ | 2023.04~2023.06 </sub>
+- **MiniShell** | Bash Shell Like | [Repo](https://github.com/obvoso/ss501) |<sub> C | 2022.06 </sub>
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,c,cpp,html,css,react,nextjs,vercel,git,github,aws,docker,nginx,emotion,materialui,tailwind,figma,ai,ps&perline=10)](https://skillicons.dev)
+
+## Education & Experience
+- 🎓 Catholic University of Korea, Media Technology & Media Contents, Computer Science & Information Engineering (2020.03~2024.08)
+- 🖥 Inovation Academy, 42Seoul 6기 Leaner (2022.03~2024.01)
+- 🖥 Inovation Academy, 42Seoul 6기 Member (2024.01~)
+- 🦁 Like Lion, Catholic University of Korea 1기 (2023.03~2023.09)
+- 💡 GDSC, Catholic University of Korea 1기 (2023.09~2023.12)
+
+## Stats
 <!--
-
-#### 👯 갇혔어요
-
-<br/>
-
-[![soo's 42 stats](https://badge42.vercel.app/api/v2/cll5g971o006508mm482907tm/stats?cursusId=21&coalitionId=87)](https://profile.intra.42.fr/users/soo)
-
--->
-
-<!--
-#### 🙌
-
-
-## [songmin's portfolio 👩‍💻](https://coherent-drawer-3ad.notion.site/4663ca780df14f97af83f4216763146a?pvs=4)
-
-<br/>
-<br/>
--->
-  
- <br/>
- 
-#### 🥺
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=autumninmoon)](https://solved.ac/autumninmoon/)
+-->  
 <div style="display: flex;">
- 
   <a href="https://github.com/obvoso/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=obvoso&show_icons=true&theme=tokyonight" />
   </a>
@@ -56,31 +32,5 @@
   </a>
 </div>
 
-<br/>
-
-
-<!--
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=autumninmoon)](https://solved.ac/autumninmoon/)
--->
-
-
-
-####  😀
-<!-- |2023.12~2024.03|**Alzguard Prototype**|알츠가드 프로젝트의 새로운 게임 4종 프로토타입 개발|[Alz](https://github.com/obvoso/react_hospital_subject)|Next, CanvasAPI| -->
-<br/>
-
-|Date|Project|Service|Repo|Skills|
-|------|---|---|---|---|
-|2024.07~진행중|**obvoso-blog**|개인 개발 블로그|[obvoso](https://github.com/obvoso/obvoso-blog)|Next.js App Router, Notion|
-|2023.08~2023.12|**42Manito**|도움이 필요한 동료들을 연결해주는 서비스|[Manito](https://github.com/manito42)|Next.js Page Router, RTK-Query|
-|2023.09~2023.11|**AppleMangPlate**|KAKAO API를 활용한 맛집 검색 서비스|[AMP](https://github.com/AppleMangoPlate)|Next|
-|2023.07~2023.10|**42PingPong**|실시간 핑퐁게임 및 채팅 SPA 과제|[PingPong](https://github.com/42-pingpong)|React, WebSocket|
-|2023.02~2023.05|**Moim**|이벤트 기반 모임 어플|[Moim](https://github.com/42projectPeople)|React Native|
-|2023.10~2023.12|**TodoMeet**|일정 관리 및 공유 어플|[TodoMeet](https://github.com/obvoso/TodoMeet)|Android(JAVA)|
-|2023.04~2023.06|**WebServ**|C++로 만드는 NginX|[WebServ](https://github.com/koreanddinghwan/nginx-like-webserv-using-kqueue)|C++|
-|2022.06|**MiniShell**|C로 만드는 Bash Shell|[MiniShell](https://github.com/obvoso/ss501)|C|
-
-<br/>
-<br/>
-
-</div>
+[![soo's 42 stats](https://badge.mediaplus.ma/darkblue/soo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<!-- [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev) -->
