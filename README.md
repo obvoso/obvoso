@@ -14,7 +14,7 @@
 
 ## Education & Experience
 - 🎓 Catholic University of Korea, Media Technology & Media Contents, Computer Science & Information Engineering (2020.03~2024.08)
-- 🖥 Inovation Academy, 42Seoul 6기 Leaner (2022.03~2024.01)
+- 🖥 Inovation Academy, 42Seoul 6기 Learner (2022.03~2024.01)
 - 🖥 Inovation Academy, 42Seoul 6기 Member (2024.01~)
 - 🦁 Like Lion, Catholic University of Korea 1기 (2023.03~2023.09)
 - 💡 GDSC, Catholic University of Korea 1기 (2023.09~2023.12)
