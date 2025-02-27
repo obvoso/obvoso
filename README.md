@@ -9,7 +9,7 @@
 - **WebServ** | Nginx Like | [Repo](https://github.com/koreanddinghwan/nginx-like-webserv-using-kqueue) | <sub>C++ | 2023.04~2023.06 </sub>
 - **MiniShell** | Bash Shell Like | [Repo](https://github.com/obvoso/ss501) |<sub> C | 2022.06 </sub>
 
-## Studying
+## Study
 [![My Skills](https://skillicons.dev/icons?i=js,ts,c,cpp,html,css,react,nextjs,aws,docker&perline=5)](https://skillicons.dev)
 
 ## Education & Experience
