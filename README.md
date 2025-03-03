@@ -6,7 +6,7 @@
 - **obvoso-blog** | 개발 블로그 | [Link](https://www.obvoso.site) |<sub> Next.js App Router, Notion SDK | 2024.07~진행중 </sub>
 - **baguni** | 웹사이트 링크를 깔끔하게 정리하는 북마크 서비스 | [Repo](https://github.com/Kernel360/F2-BAGUNI) |<sub> Next.js App Router, Zustand | 2024.12~진행중 </sub>
 - **42Manito** | 도움이 필요한 동료들을 연결해주는 플랫폼 | [Repo](https://github.com/manito42) |<sub> Next.js Page Router, RTK-Query | 2023.08~2023.12 </sub>
-- **42PingPong** | 실시간 핑퐁 게임 및 채팅 서비스 | [Repo](https://github.com/42-pingpong) |<sub> React, WebSocket | 2023.07~2023.10 </sub>
+- **42PingPong** | 실시간 핑퐁 게임 및 채팅 서비스 | [Repo](https://github.com/42-pingpong) |<sub> React, Socket.IO | 2023.07~2023.10 </sub>
 - **WebServ** | Nginx Like | [Repo](https://github.com/koreanddinghwan/nginx-like-webserv-using-kqueue) | <sub>C++ | 2023.04~2023.06 </sub>
 - **MiniShell** | Bash Shell Like | [Repo](https://github.com/obvoso/ss501) |<sub> C | 2022.06 </sub>
 
