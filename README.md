@@ -3,6 +3,7 @@ React와 Next.js를 공부하고 있는 프론트엔드 개발자 오송민입�
 
 ## Projects
 <!-- - **운세마왕** | 운세 커뮤니티 | [Link](https://www.unsemawang.com) |<sub> Next.js App Router, StompJS | 2024.12~진행중 </sub> -->
+- **운세마왕** | 운세 커뮤니티 | [Repo](https://github.com/obvoso/DEPLOY-KDEV3-unsemawang-FE) |<sub> Next.js App Router, StompJS | 2024.12~2025.03 </sub>
 - **obvoso-blog** | 개발 블로그 | [Repo](https://github.com/obvoso/obvoso-blog) |<sub> Next.js App Router, Notion SDK | 2024.07~진행중 </sub>
 - **baguni** | 웹사이트 링크를 깔끔하게 정리하는 북마크 서비스 | [Repo](https://github.com/Kernel360/F2-BAGUNI) |<sub> Next.js App Router, Zustand | 2024.12~진행중 </sub>
 - **42Manito** | 도움이 필요한 동료들을 연결해주는 플랫폼 | [Repo](https://github.com/manito42) |<sub> Next.js Page Router, RTK-Query | 2023.08~2023.12 </sub>
